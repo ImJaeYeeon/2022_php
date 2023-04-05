@@ -1,0 +1,1 @@
+The PHP development team announces the immediate availability of PHP 8.1.6. This is a bug fix release.
